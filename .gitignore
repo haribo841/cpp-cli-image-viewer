@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio local state and build output
+.vs/
+*.vcxproj.user
+/Debug/
+/Release/
+/Win32/
+/x64/
+/Project1/x64/
+/Project1/Debug/
+/Project1/Release/
